@@ -1,0 +1,15 @@
+[submodule "userservice"]
+	path = userservice
+	url = https://github.com/sathwick18/ewallet_user.git
+[submodule "Transaction"]
+	path = Transaction
+	url = https://github.com/sathwick18/ewallet_transaction.git
+[submodule "ServiceDiscovery"]
+	path = ServiceDiscovery
+	url = https://github.com/sathwick18/ewallet_servicediscovery.git
+[submodule "wallet"]
+	path = wallet
+	url = https://github.com/sathwick18/ewallet_wallet.git
+[submodule "notification"]
+	path = notification
+	url = https://github.com/sathwick18/ewallet_notification.git
